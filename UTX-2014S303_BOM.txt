@@ -1,0 +1,31 @@
+Component                     Package   Value               Manuf               Manuf Part No       Distrib             Distrib Part No     Ref Name         Qty
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+0.25Wresistor                 DIP                                                                                                           resLED             1
+0.125Wresistor                DIL                                                                                                           R2 R3 R4           5
+                                                                                                                                            R6 R7               
+B3F-1050                      DIP                                                                                                           SW1                1
+Ceramic                       C                                                                                                             C3 C4 C5           7
+                                                                                                                                            C6 C7 C8            
+                                                                                                                                            C9                  
+Header2                       SIP                                                                                                           Battery            1
+Header4                       SIP                                                                                                           ADC PortBH         6
+                                                                                                                                            PortBL              
+                                                                                                                                            PortDH              
+                                                                                                                                            PortDL J1           
+Header6                       MISC                                                                                                          PortA              1
+Header8                       MISC                                                                                                          LCD                1
+JTAG                          USER                          AllElectronics      DHS-40                                                      JTAG               1
+LEDT1.75                      SIP                                                                                                           D1 D2 D3           4
+                                                                                                                                            D5                  
+LM3S811                       QFP                                                                                                           GPIO               1
+LM2937ET-3.3                  TO220                                                                                                                            1
+                                                                                                                                                      VoltRegulator          
+Mammond1593Y                  MISC                                                                                                          Box1               1
+tantalum                      C                                                                                                             C2 C10 C12         3
+testpoint                     SIP                                                                                                           GND                1
+                              SIP                           +3.3V                                                                           TP2                1
+                              SIP                           +7.4v                                                                           TP1                1
+XTAL                          DSC                                                                                                           Crystal            1
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                                                              38
+PCB Artist Bill of Materials is provided for reference only and must be verified by the user.
